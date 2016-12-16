@@ -1,5 +1,5 @@
 # atom-one-konsole-colorscheme
-> Atom One KDE Konsole colorscheme
+> Atom One [KDE Konsole](https://konsole.kde.org/) colorscheme
 
 ![Alt text](/screenshot-201612161850.png?raw=true "Screenshot displaying all the possible colors")
 
